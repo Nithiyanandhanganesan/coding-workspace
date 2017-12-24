@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;twitterStream.PrintSampleStram&apos; to &apos;PrintSampleStream&apos;&#x0D;&#x0A;- Original project: &apos;twitterStream&apos;&#x0D;&#x0A;- Original element: &apos;twitterStream.PrintSampleStram&apos;&#x0D;&#x0A;- Renamed element: &apos;twitterStream.PrintSampleStream&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;PrintSampleStram&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java&lt;twitterStream{PrintSampleStram.java[PrintSampleStram" matchStrategy="1" name="PrintSampleStream" qualified="false" references="true" similarDeclarations="false" stamp="1472282267932" textual="false" version="1.0"/>
-</session>
