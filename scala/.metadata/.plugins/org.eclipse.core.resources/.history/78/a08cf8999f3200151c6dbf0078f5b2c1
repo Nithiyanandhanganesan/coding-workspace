@@ -1,0 +1,11 @@
+
+
+/**
+ * @author anand
+ */
+object type_name {
+  def main (args :Array[String])
+  {
+    println("hellow world");
+  }
+}

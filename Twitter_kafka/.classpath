@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/hbc-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/kafka-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/kafka_2.8.2-0.8.0-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/httpclient-4.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/apache-httpcomponents-httpcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/google-collections-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/joauth-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/scala-library-2.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/com.google.guava_1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/logback-core-0.9.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/logback-classic-0.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/anand/Desktop/jar/slf4j-jcl-1.0.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
