@@ -1,0 +1,11 @@
+[
+  "com.anand.stage.processor.sample.Groups",
+  "com.anand.stage.origin.sample.SampleDSource",
+  "com.anand.stage.processor.sample.SampleDProcessor",
+  "com.anand.stage.origin.sample.Groups",
+  "com.anand.stage.executor.sample.SampleDExecutor",
+  "com.anand.stage.destination.sample.SampleDTarget",
+  "com.anand.stage.destination.sample.Groups",
+  "com.anand.stage.executor.sample.Groups",
+  "com.anand.stage.lib.sample.Errors"
+]

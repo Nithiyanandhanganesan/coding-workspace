@@ -1,0 +1,6 @@
+[
+  "com.anand.stage.origin.sample.SampleDSource",
+  "com.anand.stage.processor.sample.SampleDProcessor",
+  "com.anand.stage.executor.sample.SampleDExecutor",
+  "com.anand.stage.destination.sample.SampleDTarget"
+]

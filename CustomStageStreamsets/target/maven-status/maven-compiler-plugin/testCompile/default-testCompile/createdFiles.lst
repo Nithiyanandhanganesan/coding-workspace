@@ -1,0 +1,4 @@
+com/anand/stage/executor/sample/TestSampleExecutor.class
+com/anand/stage/processor/sample/TestSampleProcessor.class
+com/anand/stage/destination/sample/TestSampleTarget.class
+com/anand/stage/origin/sample/TestSampleSource.class
